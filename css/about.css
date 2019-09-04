@@ -166,9 +166,19 @@ div#second-col{
     margin-top:25px;
     font-size: 25px;
     text-align:center;
-
-
 }
+#third-col{
+    float:right;
+    width: 40%;
+    margin-top: 25px;
+    font-size: 25px;
+    text-align: center;
+}
+#upper-col{
+    color:#FF1493;
+    text-align: center;
+}
+
 
 
 /*FOOTER*/
