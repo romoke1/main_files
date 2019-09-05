@@ -153,6 +153,10 @@ opacity: 0.7;
     color:blue;
 }
 
+#upper-col {
+    text-align: center;
+    color: #FF1493;
+}
 /* SECOND SECTION  */
 div#first-col{
     float:left;
@@ -170,7 +174,13 @@ div#second-col{
 
 }
 
-
+#third-col {
+    float: right;
+    width: 40%;
+    margin-top: 25px;
+    font-size: 25px;
+    text-align: center;
+}
 /*FOOTER*/
 footer{
     padding:20px;
